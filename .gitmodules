@@ -1,0 +1,3 @@
+[submodule "TG-Backend"]
+	path = TG-Backend
+	url = https://github.com/GilbertoSantos-Dev/TG-Backend.git
