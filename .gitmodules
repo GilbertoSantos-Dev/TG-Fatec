@@ -1,3 +1,6 @@
 [submodule "TG-Backend"]
 	path = TG-Backend
 	url = https://github.com/GilbertoSantos-Dev/TG-Backend.git
+[submodule "TG-Mobile"]
+	path = TG-Mobile
+	url = https://github.com/GilbertoSantos-Dev/TG-Mobile.git
